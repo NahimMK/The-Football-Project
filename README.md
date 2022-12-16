@@ -12,7 +12,9 @@ And then you can run the program to create 3 visualizations that compare the dat
 ![Mercury](https://user-images.githubusercontent.com/45957874/208012946-287f34ad-e8d5-4c73-a9ea-47bcd2525e39.gif)
 
 
-These visualization may also be downloaded as PDF or HTML files.
+These visualization may also be downloaded as PDF or HTML files. To clear the data, click "clear runs" on the bottom left and it will go back to default options.
+
+
 To run this project, open up a terminal or command prompt and type:
 ```
 pip install -r requirements.txt
