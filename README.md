@@ -15,7 +15,12 @@ And then you can run the program to create 3 visualizations that compare the dat
 These visualization may also be downloaded as PDF or HTML files. To clear the data, click "clear runs" on the bottom left and it will go back to default options.
 
 In the FootballProjectFinalVerision.ipynb file please change the follwing line of code to file path where the FPL_DATA_ALL.csv file is stored.
+
 ![image](https://user-images.githubusercontent.com/45957874/208026958-46992ca4-a95e-4668-a44c-ee49359086cf.png)
+
+![image](https://github.com/user-attachments/assets/09e03a63-5b83-439d-ab55-392a5bd8eb57)
+
+![image](https://github.com/user-attachments/assets/1d03047f-e3bd-40ab-96c2-efda484caf34)
 
 To run this project, open up a terminal or command prompt and type:
 ```
