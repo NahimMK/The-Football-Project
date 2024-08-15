@@ -11,9 +11,17 @@ And then you can run the program to create 3 visualizations that compare the dat
 
 ![Mercury](https://user-images.githubusercontent.com/45957874/208012946-287f34ad-e8d5-4c73-a9ea-47bcd2525e39.gif)
 
-![image](https://github.com/user-attachments/assets/09e03a63-5b83-439d-ab55-392a5bd8eb57)
+<h3> Radar Chart Visualization to Compare Raw Statistics Between Two EPL Players </h3>
 
-![image](https://github.com/user-attachments/assets/1d03047f-e3bd-40ab-96c2-efda484caf34)
+![image](https://github.com/user-attachments/assets/c4d2bf9c-6f03-43c1-a210-cc6697e93da8)
+
+<h3> Coxcomb Chart Visulaization of Percentile Data Between Two Players </h3>
+
+![image](https://github.com/user-attachments/assets/59e28595-5fed-4138-948a-9896a81fcb9a)
+
+<h3> Heatmap of Players' Shooting Positions on Pitch With Frequency on Axis </h3>
+
+![image](https://github.com/user-attachments/assets/332f20a1-516b-4cc2-b62b-e875273c5ae9)
 
 These visualization may also be downloaded as PDF or HTML files. To clear the data, click "clear runs" on the bottom left and it will go back to default options.
 
